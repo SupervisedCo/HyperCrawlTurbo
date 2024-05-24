@@ -2,6 +2,14 @@
 
 HypercrawlTurbo is a turbocharged web scraper for extracting URLs from a webpage.
 
+## Documentations
+
+Read complete documentations here : https://hyperllm.gitbook.io/hypercrawl/
+
+# Pip & Installation
+
+Read more here : https://pypi.org/project/hypercrawlturbo/
+
 ## Installation
 
 You can install HypercrawlTurbo via pip:
