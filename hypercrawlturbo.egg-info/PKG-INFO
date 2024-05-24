@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: hypercrawlturbo
+Version: 0.3
+Summary: A turbocharged web scraper for extracting URLs from a webpage. This is the lite version of HyperCrawl
+Home-page: https://github.com/uditakhourii/hypercrawlturbo
+Author: Udit AKhouri
+Description-Content-Type: text/markdown
+
+# HypercrawlTurbo
+
+HypercrawlTurbo is a turbocharged web scraper for extracting URLs from a webpage.
+
+## Installation
+
+You can install HypercrawlTurbo via pip:
+
+```bash
+pip install hypercrawlturbo

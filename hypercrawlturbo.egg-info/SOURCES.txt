@@ -1,0 +1,10 @@
+README.md
+setup.py
+hypercrawlturbo/__init__.py
+hypercrawlturbo/scraper.py
+hypercrawlturbo.egg-info/PKG-INFO
+hypercrawlturbo.egg-info/SOURCES.txt
+hypercrawlturbo.egg-info/dependency_links.txt
+hypercrawlturbo.egg-info/entry_points.txt
+hypercrawlturbo.egg-info/requires.txt
+hypercrawlturbo.egg-info/top_level.txt
