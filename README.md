@@ -8,10 +8,12 @@ You can install HypercrawlTurbo via pip:
 
 ```bash
 pip install hypercrawlturbo
+```
 
-Usage
-HyperCrawl Turbo
-​
+
+## Usage
+
+```bash
 from hypercrawlturbo import scraper
 ​
 # Define the URL of the webpage to scrape
@@ -24,7 +26,7 @@ extracted_urls = scraper.scrape_urls(url_to_scrape)
 for url in extracted_urls:
     print(url)
     # Here you can perform further processing on each URL, such as visiting it or storing it in a database
-​
+```​
 ​
 for url in urls:
     print(url)
