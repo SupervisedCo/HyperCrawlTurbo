@@ -4,7 +4,9 @@ HypercrawlTurbo is a turbocharged web scraper for extracting URLs from a webpage
 
 ## Google Colaboratory 
 
-https://colab.research.google.com/drive/14yr-sMhDQ0t6FWFczdrdNSNXUk-KV7Sv?usp=sharing
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14yr-sMhDQ0t6FWFczdrdNSNXUk-KV7Sv?usp=sharing)
+
+
 
 ## Documentations
 
